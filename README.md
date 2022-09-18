@@ -4,11 +4,11 @@
  ![preview](./.preview.png)
 
 
-   > Trilha Explorer
+   >Trilha Explorer
 
     Projeto construido no evento Next Level Week da Rocketseat.
 
-    [Clique aqui para acessar](https://novaislary.github.io/projetoROck/)
+    [ ⚓ Clique aqui para acessar](https://novaislary.github.io/projetoROck/)
 
  ## 🧑🏿‍💻 Tecnologias
 
