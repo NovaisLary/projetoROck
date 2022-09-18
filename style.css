@@ -73,7 +73,7 @@ section h2 {
 
 section p {
     letter-spacing: -0.18px;
-    color: #A1A1AA;
+    color: #6439da;
 }
 
 section ul {
@@ -98,8 +98,8 @@ section ul li:hover {
 }
 
 .channel-list img {
-    border-radius: 50%; 
+    border-radius: 8px; 
     width: 70px;
-    border: 1px solid #8b75c7;
+    border: 1px solid #6439da;
 }
 
